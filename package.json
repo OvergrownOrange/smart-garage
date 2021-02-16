@@ -1,0 +1,21 @@
+{
+  "name": "smartgarage",
+  "version": "1.0.0",
+  "description": "Smart Garage Controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Smart",
+    "Garage"
+  ],
+  "author": "Adam Knox",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "onoff": "^6.0.1"
+  }
+}
